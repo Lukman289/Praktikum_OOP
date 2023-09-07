@@ -60,6 +60,8 @@ public class SepedaDemo {
 # **hasil**
 <img src="gambar\image-1.png">
 
+<br>
+
 # **Percobaan 2**
 # **class sepedaGunung**
 ```java
@@ -107,24 +109,44 @@ public class SepedaDemo {
 # **hasil**
 <img src="gambar\image-2.png">
 
+<br>
+
 # **Pertanyaan**
 1. Jelaskan perbedaan antara objek dengan class!
-Jawaban : Objek adalah rangkaian dalam program yang terdiri dari state dan behaviour. Sedangkan class adalah blueprint atau prototype dari objek atau bisa diartikan sebagai kerangka dari objek.
+<p>Jawaban : Objek adalah rangkaian dalam program yang terdiri dari state dan behaviour. Sedangkan class adalah blueprint atau prototype dari objek atau bisa diartikan sebagai kerangka dari objek.<\p>
 
 2. Jelaskan alasan warna dan tipe mesin dapat menjadi atribut dari objek mobil!
-Jawaban : Karena warna dan tipe mesin dapat membedakan mobil satu dengan mobil yang lain dan setiap warna dan tipe mesin mobil tidak hanya dipasang pada satu mobil saja.
+<p>Jawaban : Karena warna dan tipe mesin dapat membedakan mobil satu dengan mobil yang lain dan setiap warna dan tipe mesin mobil tidak hanya dipasang pada satu mobil saja.<\p>
 
 3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural!
-Jawaban : Program akan lebih fleksibel jika ada perubahan fitur, berbeda dengan pemrograman struktural menggunakan fungsi.
+<p>Jawaban : Program akan lebih fleksibel jika ada perubahan fitur, berbeda dengan pemrograman struktural menggunakan fungsi.<\p>
 
 4. Apakah diperbolehkan melakukan pendefinisian dua buah atribut dalam satu baris kode seperti “public String nama,alamat;”?
-Jawaban : Pendefinisian dua buah atribut dalam satu baris kode diperbolehkan.
+<p>Jawaban : Pendefinisian dua buah atribut dalam satu baris kode diperbolehkan.<\p>
 
 5. Pada class SepedaGunung, jelaskan alasan atribut merk, kecepatan, dan gear tidak lagi ditulis di dalam class tersebut! 
-Jawaban : Karena merek, kecepatan, dan gear sudah terdapat pada class Sepeda dan pada fungsi cetakStatus yang ada pada class SepedaGunung juga dilakukan pemanggilan cetakStatus yang ada pada class Sepeda.
+<p>Jawaban : Karena merek, kecepatan, dan gear sudah terdapat pada class Sepeda dan pada fungsi cetakStatus yang ada pada class SepedaGunung juga dilakukan pemanggilan cetakStatus yang ada pada class Sepeda.</p>
 
+<br>
 
 # **Tugas**
+1. Lakukan langkah-langkah berikut supaya tugas praktikum yang dikerjakan tersistematis:
+<p>a. Foto 4 buah objek di sekitar kalian dengan 2 objek di antaranya merupakan objek yang 
+mengandung konsep pewarisan (inheritance), contoh: kulkas, kursi, meja ruang tamu, meja 
+belajar sehingga diketahui meja ruang tamu dan meja belajar mewarisi objek meja! </p>
+<p>b. Lakukan pengamatan terhadap 4 objek tersebut untuk menentukan atribut dan methodnya!</p>
+<p>c. Berdasarkan 4 buah objek tersebut, buat class nya dalam Bahasa pemrograman Java! </p>
+<p>d. Perlu diperhatikan bahwa terdapat dua class hasil pewarisan sehingga perlu menambah satu 
+class baru sebagai class yang mewarisi dua class tersebut!</p>
+<P>e. Tambahkan dua atribut untuk setiap class!</P>
+<p>f. Tambahkan tiga method untuk setiap classtermasuk method cetak informasi!</p>
+<p>g. Tambahkan satu class Demo sebagai main!</p>
+<p>h. Instansiasikan satu buah objek untuk setiap class!</p>
+<p>i. Terapkan setiap method untuk setiap objek yang dibuat!</p>
+<p>j. Contoh yang telah disebutkan pada poin 1.a tidak diperbolehkan dipakai dalam pengerjaan 
+tugas praktikum ini!</p>
+
+<br>
 
 # **class Demo**
 ```java
