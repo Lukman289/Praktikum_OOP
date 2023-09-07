@@ -2,6 +2,8 @@
 # **Kelas : 2E**
 # **Mata Kuliah : Object Oriented Programming**
 
+<br>
+
 # **Percobaan 1**
 ```java
 class sepeda
