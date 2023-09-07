@@ -113,16 +113,16 @@ public class SepedaDemo {
 
 # **Pertanyaan**
 1. Jelaskan perbedaan antara objek dengan class!
-<p>Jawaban : Objek adalah rangkaian dalam program yang terdiri dari state dan behaviour. Sedangkan class adalah blueprint atau prototype dari objek atau bisa diartikan sebagai kerangka dari objek.<\p>
+<p>Jawaban : Objek adalah rangkaian dalam program yang terdiri dari state dan behaviour. Sedangkan class adalah blueprint atau prototype dari objek atau bisa diartikan sebagai kerangka dari objek.</p>
 
 2. Jelaskan alasan warna dan tipe mesin dapat menjadi atribut dari objek mobil!
-<p>Jawaban : Karena warna dan tipe mesin dapat membedakan mobil satu dengan mobil yang lain dan setiap warna dan tipe mesin mobil tidak hanya dipasang pada satu mobil saja.<\p>
+<p>Jawaban : Karena warna dan tipe mesin dapat membedakan mobil satu dengan mobil yang lain dan setiap warna dan tipe mesin mobil tidak hanya dipasang pada satu mobil saja.</p>
 
 3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural!
 <p>Jawaban : Program akan lebih fleksibel jika ada perubahan fitur, berbeda dengan pemrograman struktural menggunakan fungsi.<\p>
 
 4. Apakah diperbolehkan melakukan pendefinisian dua buah atribut dalam satu baris kode seperti “public String nama,alamat;”?
-<p>Jawaban : Pendefinisian dua buah atribut dalam satu baris kode diperbolehkan.<\p>
+<p>Jawaban : Pendefinisian dua buah atribut dalam satu baris kode diperbolehkan.</p>
 
 5. Pada class SepedaGunung, jelaskan alasan atribut merk, kecepatan, dan gear tidak lagi ditulis di dalam class tersebut! 
 <p>Jawaban : Karena merek, kecepatan, dan gear sudah terdapat pada class Sepeda dan pada fungsi cetakStatus yang ada pada class SepedaGunung juga dilakukan pemanggilan cetakStatus yang ada pada class Sepeda.</p>
